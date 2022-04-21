@@ -26,7 +26,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
@@ -1115,4 +1114,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/PlayMenu.unity
   - Assets/Scenes/MainGame.unity
-  playerPath: C:/Users/ocoll/Desktop/unity builds/windows/x86/completebuild/2D Platformer.exe
+  playerPath: C:/Users/ocoll/Desktop/gitHub/unityGames/unity2DPlatformer/unityBuilds/windows/2D
+    Platformer.exe
