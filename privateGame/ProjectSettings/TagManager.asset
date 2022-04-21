@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - coinSFX
+  - jumpScareFloor
+  - rndCoin
+  - spike
+  - heart
+  - bunny
+  - Diagonal
+  - respawn
+  - LM
+  - reset
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - groundLayer
+  - spikeLayer
+  - playerLayer
+  - bunnyLayer
+  - resetLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 711283829
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: spikes
+    uniqueID: 3790482373
+    locked: 0
+  - name: groundFloor
+    uniqueID: 2631859957
+    locked: 0
+  - name: Player
+    uniqueID: 432972729
+    locked: 0
+  - name: JumpScare
+    uniqueID: 1464924641
+    locked: 0
+  - name: Bunny&Fireball
+    uniqueID: 1807029869
+    locked: 0
+  - name: Coin
+    uniqueID: 1690843219
+    locked: 0
+  - name: Canvas
+    uniqueID: 2783560277
+    locked: 0

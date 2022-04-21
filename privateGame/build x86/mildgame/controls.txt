@@ -1,0 +1,3 @@
+a-d left and right
+space jump/double jump
+x reset
